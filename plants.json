@@ -1,0 +1,114 @@
+{
+  "plants": [
+    {
+      "name": "Lavender",
+      "season": "Spring",
+      "hardiness_zones": [5, 6, 7, 8, 9],
+      "soil_types": ["Loam", "Sandy"],
+      "maintenance": {
+        "watering": "Weekly, drought tolerant",
+        "pruning": "After flowering, late summer",
+        "fertilizing": "Spring with balanced fertilizer"
+      }
+    },
+    {
+      "name": "Rose",
+      "season": "Spring",
+      "hardiness_zones": [4, 5, 6, 7, 8, 9],
+      "soil_types": ["Loam", "Clay"],
+      "maintenance": {
+        "watering": "Twice weekly, deep watering",
+        "pruning": "Late winter before new growth",
+        "fertilizing": "Spring and summer with rose fertilizer"
+      }
+    },
+    {
+      "name": "Sunflower",
+      "season": "Summer",
+      "hardiness_zones": [4, 5, 6, 7, 8, 9],
+      "soil_types": ["Loam", "Sandy"],
+      "maintenance": {
+        "watering": "Regular, keep soil moist",
+        "pruning": "Remove dead flowers",
+        "fertilizing": "Monthly with balanced fertilizer"
+      }
+    },
+    {
+      "name": "Chrysanthemum",
+      "season": "Fall",
+      "hardiness_zones": [5, 6, 7, 8, 9],
+      "soil_types": ["Loam", "Clay"],
+      "maintenance": {
+        "watering": "Weekly, avoid overwatering",
+        "pruning": "Pinch back in spring for bushier growth",
+        "fertilizing": "Every 2 weeks during growing season"
+      }
+    },
+    {
+      "name": "Holly",
+      "season": "Winter",
+      "hardiness_zones": [5, 6, 7, 8, 9],
+      "soil_types": ["Loam", "Clay"],
+      "maintenance": {
+        "watering": "Weekly in dry periods",
+        "pruning": "After flowering in late spring",
+        "fertilizing": "Spring with acid-loving plant fertilizer"
+      }
+    },
+    {
+      "name": "Tulip",
+      "season": "Spring",
+      "hardiness_zones": [3, 4, 5, 6, 7, 8],
+      "soil_types": ["Loam", "Sandy"],
+      "maintenance": {
+        "watering": "Regular during growth, reduce after blooming",
+        "pruning": "Remove spent flowers",
+        "fertilizing": "Fall with bulb fertilizer"
+      }
+    },
+    {
+      "name": "Daisy",
+      "season": "Summer",
+      "hardiness_zones": [4, 5, 6, 7, 8, 9],
+      "soil_types": ["Loam", "Sandy"],
+      "maintenance": {
+        "watering": "Weekly, drought tolerant once established",
+        "pruning": "Deadhead spent blooms",
+        "fertilizing": "Spring and mid-summer"
+      }
+    },
+    {
+      "name": "Pansy",
+      "season": "Fall",
+      "hardiness_zones": [4, 5, 6, 7, 8, 9],
+      "soil_types": ["Loam", "Clay"],
+      "maintenance": {
+        "watering": "Keep soil evenly moist",
+        "pruning": "Remove dead flowers",
+        "fertilizing": "Every 2-3 weeks"
+      }
+    },
+    {
+      "name": "Pine",
+      "season": "Evergreen",
+      "hardiness_zones": [3, 4, 5, 6, 7, 8],
+      "soil_types": ["Loam", "Sandy"],
+      "maintenance": {
+        "watering": "Deep watering weekly in dry spells",
+        "pruning": "Minimal, remove dead branches",
+        "fertilizing": "Spring with evergreen fertilizer"
+      }
+    },
+    {
+      "name": "Fern",
+      "season": "Spring",
+      "hardiness_zones": [4, 5, 6, 7, 8, 9],
+      "soil_types": ["Loam", "Clay"],
+      "maintenance": {
+        "watering": "Keep soil consistently moist",
+        "pruning": "Remove fronds in spring",
+        "fertilizing": "Spring with balanced fertilizer"
+      }
+    }
+  ]
+}
